@@ -294,8 +294,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 👥 Authors
 
-- **Shubham Kumar Jha** — Model development & training pipeline (TEAM SAS)
-- **adamya1231** — Streamlit web application
+- **Shubham Kumar Jha** — Model development & training pipeline & Streamlit web application
 
 ---
 
